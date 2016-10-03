@@ -57,12 +57,6 @@
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:wp_author>
 <wp:category>
-  <wp:term_id>2835016</wp:term_id>
-  <wp:category_nicename>aciform</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[aciform]]></wp:cat_name>
-</wp:category>
-<wp:category>
   <wp:term_id>1020423</wp:term_id>
   <wp:category_nicename>antiquarianism</wp:category_nicename>
   <wp:category_parent/>
@@ -324,12 +318,6 @@
   <wp:category_nicename>sloyd</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[sloyd]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>30849</wp:term_id>
-  <wp:category_nicename>sub</wp:category_nicename>
-  <wp:category_parent>aciform</wp:category_parent>
-  <wp:cat_name><![CDATA[sub]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>2835009</wp:term_id>
@@ -6148,104 +6136,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   </wp:postmeta>
 </item>
 <item>
-  <title>Post Format: Video (WordPress.tv)</title>
-  <link>http://wpthemetestdata.wordpress.com/2010/06/03/post-format-video-wordpresstv/</link>
-  <pubDate>Thu, 03 Jun 2010 15:25:58 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=582</guid>
-  <description/>
-  <content:encoded><![CDATA[http://wordpress.tv/2009/03/16/anatomy-of-a-wordpress-theme-exploring-the-files-behind-your-theme/
-
-Posted as per the <a href="http://codex.wordpress.org/Embeds" target="_blank">instructions in the Codex</a>.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>582</wp:post_id>
-  <wp:post_date>2010-06-03 08:25:58</wp:post_date>
-  <wp:post_date_gmt>2010-06-03 15:25:58</wp:post_date_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>post-format-video-wordpresstv</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="embeds-2"><![CDATA[embeds]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
-  <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-  <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-  <category domain="post_tag" nicename="video"><![CDATA[video]]></category>
-  <category domain="post_tag" nicename="wordpress-tv"><![CDATA[wordpress.tv]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-video]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_oembed_4321638fc1a6fee26443f7fe8a70a871</wp:meta_key>
-    <wp:meta_value><![CDATA[<embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed>]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_oembed_29351fff85c1be1d1e9a965a0332a861</wp:meta_key>
-    <wp:meta_value><![CDATA[<div class="embed-"><embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="604" height="339" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed></div>]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_oembed_9fcc86d7d9398ff736577f922307f64d</wp:meta_key>
-    <wp:meta_value><![CDATA[<div class="embed-"><embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="808" height="454" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed></div>]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_oembed_366237792d32461d0052efb2edec37f5</wp:meta_key>
-    <wp:meta_value><![CDATA[<div class="embed-"><embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="584" height="328" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed></div>]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_oembed_37fdfe862c13c46a93be2921279bf675</wp:meta_key>
-    <wp:meta_value><![CDATA[<div class="embed-"><embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="599" height="336" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed></div>]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Post Format: Audio</title>
-  <link>http://wpthemetestdata.wordpress.com/2010/07/02/post-format-audio/</link>
-  <pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
-  <description/>
-  <content:encoded><![CDATA[Link:
-
-<a href="http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">St. Louis Blues</a>
-
-Audio shortcode:
-
-[audio http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3]]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>587</wp:post_id>
-  <wp:post_date>2010-07-02 08:36:44</wp:post_date>
-  <wp:post_date_gmt>2010-07-02 15:36:44</wp:post_date_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>post-format-audio</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="audio"><![CDATA[audio]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
-  <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-  <category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
-  <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
-  <wp:postmeta>
-    <wp:meta_key>enclosure</wp:meta_key>
-    <wp:meta_value><![CDATA[http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
-3043247
-audio/mpeg
-]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-audio]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>Page A</title>
   <link>http://wpthemetestdata.wordpress.com/page-a/</link>
   <pubDate>Fri, 24 Jun 2011 01:38:52 +0000</pubDate>
@@ -7953,7 +7843,6 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="aciform"><![CDATA[aciform]]></category>
   <category domain="category" nicename="antiquarianism"><![CDATA[antiquarianism]]></category>
   <category domain="category" nicename="arrangement"><![CDATA[arrangement]]></category>
   <category domain="category" nicename="asmodeus"><![CDATA[asmodeus]]></category>
