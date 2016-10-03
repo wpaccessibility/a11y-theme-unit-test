@@ -6203,12 +6203,14 @@ Multi line blockquote with a cite reference:
 <blockquote>People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs - Apple Worldwide Developers' Conference, 1997</cite></blockquote>
 <h2>Tables</h2>
 <table>
-<tbody>
+<thead>
 <tr>
 <th>Employee</th>
 <th class="views">Salary</th>
-<th></th>
+<th>Comments</th>
 </tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td><a href="http://example.com/">Jane</a></td>
 <td>$1</td>
@@ -6464,12 +6466,14 @@ Multi line blockquote with a cite reference:
 <blockquote>People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs - Apple Worldwide Developers' Conference, 1997</cite></blockquote>
 <h2>Tables</h2>
 <table>
-<tbody>
+<thead>
 <tr>
 <th>Employee</th>
 <th class="views">Salary</th>
-<th></th>
+<th>Comments</th>
 </tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td><a href="http://example.org/" rel="nofollow">John Saddington</a></td>
 <td>$1</td>
@@ -7736,7 +7740,7 @@ Post Page 3]]></content:encoded>
 Special characters in the post title have been known to cause issues with JavaScript when it is minified, especially in the admin when editing the post itself (ie. issues with metaboxes, media upload, etc.).
 <h2>Latin Character Tests</h2>
 This is a test to see if the fonts used in this theme support basic Latin characters.
-<table>
+<table role="presentation">
 <tbody>
 <tr>
 <td>!</td>
@@ -8145,7 +8149,7 @@ Multi line blockquote with a cite reference:
 <tr>
 <th>Employee</th>
 <th>Salary</th>
-<th></th>
+<th>Comments</th>
 </tr>
 </thead>
 <tbody>
