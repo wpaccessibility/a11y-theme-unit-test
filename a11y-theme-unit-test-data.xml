@@ -7163,17 +7163,10 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="antiquarianism"><![CDATA[antiquarianism]]></category>
-  <category domain="category" nicename="arrangement"><![CDATA[arrangement]]></category>
-  <category domain="category" nicename="asmodeus"><![CDATA[asmodeus]]></category>
-  <category domain="category" nicename="broder"><![CDATA[broder]]></category>
-  <category domain="category" nicename="buying"><![CDATA[buying]]></category>
   <category domain="category" nicename="cat-a"><![CDATA[Cat A]]></category>
   <category domain="category" nicename="cat-b"><![CDATA[Cat B]]></category>
   <category domain="category" nicename="cat-c"><![CDATA[Cat C]]></category>
   <category domain="post_tag" nicename="categories"><![CDATA[categories]]></category>
-  <category domain="category" nicename="championship"><![CDATA[championship]]></category>
-  <category domain="category" nicename="chastening"><![CDATA[chastening]]></category>
   <category domain="category" nicename="child-1"><![CDATA[Child 1]]></category>
   <category domain="category" nicename="child-2"><![CDATA[Child 2]]></category>
   <category domain="category" nicename="child-category-01"><![CDATA[Child Category 01]]></category>
@@ -7181,50 +7174,19 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <category domain="category" nicename="child-category-03"><![CDATA[Child Category 03]]></category>
   <category domain="category" nicename="child-category-04"><![CDATA[Child Category 04]]></category>
   <category domain="category" nicename="child-category-05"><![CDATA[Child Category 05]]></category>
-  <category domain="category" nicename="clerkship"><![CDATA[clerkship]]></category>
-  <category domain="category" nicename="disinclination"><![CDATA[disinclination]]></category>
-  <category domain="category" nicename="disinfection"><![CDATA[disinfection]]></category>
-  <category domain="category" nicename="dispatch"><![CDATA[dispatch]]></category>
-  <category domain="category" nicename="echappee"><![CDATA[echappee]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
-  <category domain="category" nicename="enphagy"><![CDATA[enphagy]]></category>
-  <category domain="category" nicename="equipollent"><![CDATA[equipollent]]></category>
-  <category domain="category" nicename="fatuity"><![CDATA[fatuity]]></category>
   <category domain="category" nicename="foo-a"><![CDATA[Foo A]]></category>
   <category domain="category" nicename="foo-a-foo-parent"><![CDATA[Foo A]]></category>
   <category domain="category" nicename="foo-parent"><![CDATA[Foo Parent]]></category>
-  <category domain="category" nicename="gaberlunzie"><![CDATA[gaberlunzie]]></category>
   <category domain="category" nicename="grandchild-category"><![CDATA[Grandchild Category]]></category>
-  <category domain="category" nicename="illtempered"><![CDATA[illtempered]]></category>
-  <category domain="category" nicename="insubordination"><![CDATA[insubordination]]></category>
-  <category domain="category" nicename="lender"><![CDATA[lender]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
   <category domain="category" nicename="media-2"><![CDATA[Media]]></category>
-  <category domain="category" nicename="monosyllable"><![CDATA[monosyllable]]></category>
-  <category domain="category" nicename="packthread"><![CDATA[packthread]]></category>
-  <category domain="category" nicename="palter"><![CDATA[palter]]></category>
-  <category domain="category" nicename="papilionaceous"><![CDATA[papilionaceous]]></category>
   <category domain="category" nicename="parent"><![CDATA[Parent]]></category>
   <category domain="category" nicename="parent-category"><![CDATA[Parent Category]]></category>
-  <category domain="category" nicename="personable"><![CDATA[personable]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-  <category domain="category" nicename="propylaeum"><![CDATA[propylaeum]]></category>
-  <category domain="category" nicename="pustule"><![CDATA[pustule]]></category>
-  <category domain="category" nicename="quartern"><![CDATA[quartern]]></category>
-  <category domain="category" nicename="scholarship"><![CDATA[scholarship]]></category>
-  <category domain="category" nicename="selfconvicted"><![CDATA[selfconvicted]]></category>
-  <category domain="category" nicename="showshoe"><![CDATA[showshoe]]></category>
-  <category domain="category" nicename="sloyd"><![CDATA[sloyd]]></category>
   <category domain="category" nicename="sub"><![CDATA[sub]]></category>
-  <category domain="category" nicename="sublunary"><![CDATA[sublunary]]></category>
-  <category domain="category" nicename="tamtam"><![CDATA[tamtam]]></category>
   <category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
-  <category domain="category" nicename="weakhearted"><![CDATA[weakhearted]]></category>
-  <category domain="category" nicename="ween"><![CDATA[ween]]></category>
-  <category domain="category" nicename="wellhead"><![CDATA[wellhead]]></category>
-  <category domain="category" nicename="wellintentioned"><![CDATA[wellintentioned]]></category>
-  <category domain="category" nicename="whetstone"><![CDATA[whetstone]]></category>
   <category domain="category" nicename="years"><![CDATA[years]]></category>
   <wp:postmeta>
     <wp:meta_key>_wp_old_slug</wp:meta_key>
