@@ -63,34 +63,10 @@
   <wp:cat_name><![CDATA[antiquarianism]]></wp:cat_name>
 </wp:category>
 <wp:category>
-  <wp:term_id>33280</wp:term_id>
-  <wp:category_nicename>arrangement</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[arrangement]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2720660</wp:term_id>
-  <wp:category_nicename>asmodeus</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[asmodeus]]></wp:cat_name>
-</wp:category>
-<wp:category>
   <wp:term_id>1356</wp:term_id>
   <wp:category_nicename>blogroll</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[Blogroll]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>714120</wp:term_id>
-  <wp:category_nicename>broder</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[broder]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>30256</wp:term_id>
-  <wp:category_nicename>buying</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[buying]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>111995</wp:term_id>
@@ -111,71 +87,11 @@
   <wp:cat_name><![CDATA[Cat C]]></wp:cat_name>
 </wp:category>
 <wp:category>
-  <wp:term_id>62501</wp:term_id>
-  <wp:category_nicename>championship</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[championship]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835020</wp:term_id>
-  <wp:category_nicename>chastening</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[chastening]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>96553</wp:term_id>
-  <wp:category_nicename>clerkship</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[clerkship]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834984</wp:term_id>
-  <wp:category_nicename>disinclination</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[disinclination]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>1454829</wp:term_id>
-  <wp:category_nicename>disinfection</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[disinfection]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>167368</wp:term_id>
-  <wp:category_nicename>dispatch</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[dispatch]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834987</wp:term_id>
-  <wp:category_nicename>echappee</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[echappee]]></wp:cat_name>
-</wp:category>
-<wp:category>
   <wp:term_id>161095136</wp:term_id>
   <wp:category_nicename>edge-case-2</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[Edge Case]]></wp:cat_name>
   <wp:category_description><![CDATA[Posts that have edge-case related tests]]></wp:category_description>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834990</wp:term_id>
-  <wp:category_nicename>enphagy</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[enphagy]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834992</wp:term_id>
-  <wp:category_nicename>equipollent</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[equipollent]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835022</wp:term_id>
-  <wp:category_nicename>fatuity</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[fatuity]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>3128700</wp:term_id>
@@ -188,30 +104,6 @@
   <wp:category_nicename>foo-parent</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[Foo Parent]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835023</wp:term_id>
-  <wp:category_nicename>gaberlunzie</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[gaberlunzie]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835026</wp:term_id>
-  <wp:category_nicename>illtempered</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[illtempered]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>315209</wp:term_id>
-  <wp:category_nicename>insubordination</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[insubordination]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>376018</wp:term_id>
-  <wp:category_nicename>lender</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[lender]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>4675</wp:term_id>
@@ -228,28 +120,10 @@
   <wp:category_description><![CDATA[Posts that have media-related tests]]></wp:category_description>
 </wp:category>
 <wp:category>
-  <wp:term_id>2835029</wp:term_id>
-  <wp:category_nicename>monosyllable</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[monosyllable]]></wp:cat_name>
-</wp:category>
-<wp:category>
   <wp:term_id>2835030</wp:term_id>
   <wp:category_nicename>packthread</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[packthread]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835031</wp:term_id>
-  <wp:category_nicename>palter</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[palter]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834994</wp:term_id>
-  <wp:category_nicename>papilionaceous</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[papilionaceous]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>54150</wp:term_id>
@@ -265,71 +139,11 @@
   <wp:category_description><![CDATA[This is a parent category. It will contain child categories]]></wp:category_description>
 </wp:category>
 <wp:category>
-  <wp:term_id>1922221</wp:term_id>
-  <wp:category_nicename>personable</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[personable]]></wp:cat_name>
-</wp:category>
-<wp:category>
   <wp:term_id>44090582</wp:term_id>
   <wp:category_nicename>post-formats</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[Post Formats]]></wp:cat_name>
   <wp:category_description><![CDATA[Posts in this category test post formats.]]></wp:category_description>
-</wp:category>
-<wp:category>
-  <wp:term_id>2834996</wp:term_id>
-  <wp:category_nicename>propylaeum</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[propylaeum]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>177992</wp:term_id>
-  <wp:category_nicename>pustule</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[pustule]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835000</wp:term_id>
-  <wp:category_nicename>quartern</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[quartern]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>34975</wp:term_id>
-  <wp:category_nicename>scholarship</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[scholarship]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835035</wp:term_id>
-  <wp:category_nicename>selfconvicted</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[selfconvicted]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835006</wp:term_id>
-  <wp:category_nicename>showshoe</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[showshoe]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835007</wp:term_id>
-  <wp:category_nicename>sloyd</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[sloyd]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835009</wp:term_id>
-  <wp:category_nicename>sublunary</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[sublunary]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2016057</wp:term_id>
-  <wp:category_nicename>tamtam</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[tamtam]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>33328006</wp:term_id>
@@ -350,36 +164,6 @@
   <wp:category_parent/>
   <wp:cat_name><![CDATA[Unpublished]]></wp:cat_name>
   <wp:category_description><![CDATA[Posts in this category test unpublished posts.]]></wp:category_description>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835037</wp:term_id>
-  <wp:category_nicename>weakhearted</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[weakhearted]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>312342</wp:term_id>
-  <wp:category_nicename>ween</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[ween]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>1327706</wp:term_id>
-  <wp:category_nicename>wellhead</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[wellhead]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835043</wp:term_id>
-  <wp:category_nicename>wellintentioned</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[wellintentioned]]></wp:cat_name>
-</wp:category>
-<wp:category>
-  <wp:term_id>2835045</wp:term_id>
-  <wp:category_nicename>whetstone</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[whetstone]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>67899</wp:term_id>
@@ -448,12 +232,6 @@
   <wp:category_description><![CDATA[This is a description for the Grandchild Category.]]></wp:category_description>
 </wp:category>
 <wp:tag>
-  <wp:term_id>695220</wp:term_id>
-  <wp:tag_slug>8bit</wp:tag_slug>
-  <wp:tag_name><![CDATA[8BIT]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about 8BIT.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
   <wp:term_id>38590737</wp:term_id>
   <wp:tag_slug>alignment-2</wp:tag_slug>
   <wp:tag_name><![CDATA[alignment]]></wp:tag_name>
@@ -490,21 +268,6 @@
   <wp:tag_name><![CDATA[chat]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834913</wp:term_id>
-  <wp:tag_slug>chattels</wp:tag_slug>
-  <wp:tag_name><![CDATA[chattels]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834914</wp:term_id>
-  <wp:tag_slug>cienaga</wp:tag_slug>
-  <wp:tag_name><![CDATA[cienaga]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834899</wp:term_id>
-  <wp:tag_slug>claycold</wp:tag_slug>
-  <wp:tag_name><![CDATA[claycold]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>12525</wp:term_id>
   <wp:tag_slug>codex</wp:tag_slug>
   <wp:tag_name><![CDATA[Codex]]></wp:tag_name>
@@ -520,29 +283,9 @@
   <wp:tag_name><![CDATA[content]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>124338</wp:term_id>
-  <wp:tag_slug>crushing</wp:tag_slug>
-  <wp:tag_name><![CDATA[crushing]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>169</wp:term_id>
   <wp:tag_slug>css</wp:tag_slug>
   <wp:tag_name><![CDATA[css]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>385439</wp:term_id>
-  <wp:tag_slug>depo</wp:tag_slug>
-  <wp:tag_name><![CDATA[depo]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834915</wp:term_id>
-  <wp:tag_slug>dinarchy</wp:tag_slug>
-  <wp:tag_name><![CDATA[dinarchy]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834900</wp:term_id>
-  <wp:tag_slug>doolie</wp:tag_slug>
-  <wp:tag_name><![CDATA[doolie]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>13207917</wp:term_id>
@@ -561,21 +304,6 @@
   <wp:tag_name><![CDATA[embeds]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834901</wp:term_id>
-  <wp:tag_slug>energumen</wp:tag_slug>
-  <wp:tag_name><![CDATA[energumen]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>781363</wp:term_id>
-  <wp:tag_slug>ephialtes</wp:tag_slug>
-  <wp:tag_name><![CDATA[ephialtes]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834902</wp:term_id>
-  <wp:tag_slug>eudiometer</wp:tag_slug>
-  <wp:tag_name><![CDATA[eudiometer]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>31262653</wp:term_id>
   <wp:tag_slug>excerpt-2</wp:tag_slug>
   <wp:tag_name><![CDATA[excerpt]]></wp:tag_name>
@@ -592,60 +320,14 @@
   <wp:tag_name><![CDATA[featured image]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834916</wp:term_id>
-  <wp:tag_slug>figuriste</wp:tag_slug>
-  <wp:tag_name><![CDATA[figuriste]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2962</wp:term_id>
-  <wp:tag_slug>filler</wp:tag_slug>
-  <wp:tag_name><![CDATA[filler]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>44189092</wp:term_id>
   <wp:tag_slug>formatting-2</wp:tag_slug>
   <wp:tag_name><![CDATA[formatting]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>109004</wp:term_id>
-  <wp:tag_slug>ftw</wp:tag_slug>
-  <wp:tag_name><![CDATA[FTW]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>272</wp:term_id>
-  <wp:tag_slug>fun</wp:tag_slug>
-  <wp:tag_name><![CDATA[Fun]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about fun.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
   <wp:term_id>3263</wp:term_id>
   <wp:tag_slug>gallery</wp:tag_slug>
   <wp:tag_name><![CDATA[gallery]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>1549412</wp:term_id>
-  <wp:tag_slug>goes-here</wp:tag_slug>
-  <wp:tag_name><![CDATA[goes here]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834917</wp:term_id>
-  <wp:tag_slug>habergeon</wp:tag_slug>
-  <wp:tag_name><![CDATA[habergeon]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>137419</wp:term_id>
-  <wp:tag_slug>hapless</wp:tag_slug>
-  <wp:tag_name><![CDATA[hapless]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834918</wp:term_id>
-  <wp:tag_slug>hartshorn</wp:tag_slug>
-  <wp:tag_name><![CDATA[hartshorn]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834919</wp:term_id>
-  <wp:tag_slug>hostility-impregnability</wp:tag_slug>
-  <wp:tag_name><![CDATA[hostility impregnability]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>647</wp:term_id>
@@ -658,11 +340,6 @@
   <wp:tag_name><![CDATA[image]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834920</wp:term_id>
-  <wp:tag_slug>impropriation</wp:tag_slug>
-  <wp:tag_name><![CDATA[impropriation]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>66451</wp:term_id>
   <wp:tag_slug>is</wp:tag_slug>
   <wp:tag_name><![CDATA[is]]></wp:tag_name>
@@ -671,11 +348,6 @@
   <wp:term_id>76655687</wp:term_id>
   <wp:tag_slug>jetpack-2</wp:tag_slug>
   <wp:tag_name><![CDATA[jetpack]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834903</wp:term_id>
-  <wp:tag_slug>knave</wp:tag_slug>
-  <wp:tag_name><![CDATA[knave]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>26060</wp:term_id>
@@ -698,12 +370,6 @@
   <wp:tag_name><![CDATA[lorem]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>3785</wp:term_id>
-  <wp:tag_slug>love</wp:tag_slug>
-  <wp:tag_name><![CDATA[Love]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about love.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
   <wp:term_id>38696790</wp:term_id>
   <wp:tag_slug>markup-2</wp:tag_slug>
   <wp:tag_name><![CDATA[markup]]></wp:tag_name>
@@ -714,57 +380,14 @@
   <wp:tag_name><![CDATA[media]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>392241</wp:term_id>
-  <wp:tag_slug>misinformed</wp:tag_slug>
-  <wp:tag_name><![CDATA[misinformed]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834904</wp:term_id>
-  <wp:tag_slug>moil</wp:tag_slug>
-  <wp:tag_name><![CDATA[moil]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>11212</wp:term_id>
   <wp:tag_slug>more</wp:tag_slug>
   <wp:tag_name><![CDATA[more]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834921</wp:term_id>
-  <wp:tag_slug>mornful</wp:tag_slug>
-  <wp:tag_name><![CDATA[mornful]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>57948</wp:term_id>
-  <wp:tag_slug>mothership</wp:tag_slug>
-  <wp:tag_name><![CDATA[Mothership]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about motherships.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>1560278</wp:term_id>
-  <wp:tag_slug>mustread</wp:tag_slug>
-  <wp:tag_name><![CDATA[Must Read]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about articles you must read.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>36752930</wp:term_id>
-  <wp:tag_slug>nailedit</wp:tag_slug>
-  <wp:tag_name><![CDATA[Nailed It]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about that nailed it.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>239264</wp:term_id>
-  <wp:tag_slug>outlaw</wp:tag_slug>
-  <wp:tag_name><![CDATA[outlaw]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>697683</wp:term_id>
   <wp:tag_slug>pagination</wp:tag_slug>
   <wp:tag_name><![CDATA[pagination]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834905</wp:term_id>
-  <wp:tag_slug>pamphjlet</wp:tag_slug>
-  <wp:tag_name><![CDATA[pamphjlet]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>39214087</wp:term_id>
@@ -782,16 +405,6 @@
   <wp:tag_name><![CDATA[pingbacks]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>1042764</wp:term_id>
-  <wp:tag_slug>pneumatics</wp:tag_slug>
-  <wp:tag_name><![CDATA[pneumatics]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834906</wp:term_id>
-  <wp:tag_slug>portly-portreeve</wp:tag_slug>
-  <wp:tag_name><![CDATA[portly portreeve]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>1187</wp:term_id>
   <wp:tag_slug>post</wp:tag_slug>
   <wp:tag_name><![CDATA[post]]></wp:tag_name>
@@ -802,39 +415,9 @@
   <wp:tag_name><![CDATA[Post Formats]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834922</wp:term_id>
-  <wp:tag_slug>precipitancy</wp:tag_slug>
-  <wp:tag_name><![CDATA[precipitancy]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>300925</wp:term_id>
-  <wp:tag_slug>privation</wp:tag_slug>
-  <wp:tag_name><![CDATA[privation]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>16889</wp:term_id>
-  <wp:tag_slug>programme</wp:tag_slug>
-  <wp:tag_name><![CDATA[programme]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>56714</wp:term_id>
-  <wp:tag_slug>psychological</wp:tag_slug>
-  <wp:tag_name><![CDATA[psychological]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834907</wp:term_id>
-  <wp:tag_slug>puncher</wp:tag_slug>
-  <wp:tag_name><![CDATA[puncher]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>3099</wp:term_id>
   <wp:tag_slug>quote</wp:tag_slug>
   <wp:tag_name><![CDATA[quote]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834908</wp:term_id>
-  <wp:tag_slug>ramose</wp:tag_slug>
-  <wp:tag_name><![CDATA[ramose]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>40586</wp:term_id>
@@ -847,24 +430,9 @@
   <wp:tag_name><![CDATA[readability]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>531008</wp:term_id>
-  <wp:tag_slug>renegade</wp:tag_slug>
-  <wp:tag_name><![CDATA[renegade]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834909</wp:term_id>
-  <wp:tag_slug>retrocede</wp:tag_slug>
-  <wp:tag_name><![CDATA[retrocede]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>412776</wp:term_id>
   <wp:tag_slug>shortcode</wp:tag_slug>
   <wp:tag_name><![CDATA[shortcode]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834923</wp:term_id>
-  <wp:tag_slug>stagnation-unhorsed</wp:tag_slug>
-  <wp:tag_name><![CDATA[stagnation unhorsed]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>472597</wp:term_id>
@@ -886,12 +454,6 @@
   <wp:tag_slug>success</wp:tag_slug>
   <wp:tag_name><![CDATA[Success]]></wp:tag_name>
   <wp:tag_description><![CDATA[Tags posts about success.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>655802</wp:term_id>
-  <wp:tag_slug>swagger</wp:tag_slug>
-  <wp:tag_name><![CDATA[Swagger]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about swagger.]]></wp:tag_description>
 </wp:tag>
 <wp:tag>
   <wp:term_id>1790856</wp:term_id>
@@ -940,16 +502,6 @@
   <wp:tag_name><![CDATA[text]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>14347</wp:term_id>
-  <wp:tag_slug>the-man</wp:tag_slug>
-  <wp:tag_name><![CDATA[the man]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834910</wp:term_id>
-  <wp:tag_slug>thunderheaded</wp:tag_slug>
-  <wp:tag_name><![CDATA[thunderheaded]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>1235460</wp:term_id>
   <wp:tag_slug>tiled</wp:tag_slug>
   <wp:tag_name><![CDATA[tiled]]></wp:tag_name>
@@ -970,17 +522,6 @@
   <wp:tag_name><![CDATA[twitter]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>2834911</wp:term_id>
-  <wp:tag_slug>unculpable</wp:tag_slug>
-  <wp:tag_name><![CDATA[unculpable]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>207758</wp:term_id>
-  <wp:tag_slug>unseen</wp:tag_slug>
-  <wp:tag_name><![CDATA[Unseen]]></wp:tag_name>
-  <wp:tag_description><![CDATA[Tags posts about things that cannot be unseen.]]></wp:tag_description>
-</wp:tag>
-<wp:tag>
   <wp:term_id>412</wp:term_id>
   <wp:tag_slug>video</wp:tag_slug>
   <wp:tag_name><![CDATA[video]]></wp:tag_name>
@@ -989,11 +530,6 @@
   <wp:term_id>20117770</wp:term_id>
   <wp:tag_slug>videopress</wp:tag_slug>
   <wp:tag_name><![CDATA[videopress]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834912</wp:term_id>
-  <wp:tag_slug>withered-brandnew</wp:tag_slug>
-  <wp:tag_name><![CDATA[withered brandnew]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>33</wp:term_id>
@@ -1005,11 +541,6 @@
   <wp:term_id>15787590</wp:term_id>
   <wp:tag_slug>wordpress-tv</wp:tag_slug>
   <wp:tag_name><![CDATA[wordpress.tv]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
-  <wp:term_id>2834924</wp:term_id>
-  <wp:tag_slug>xanthopsia</wp:tag_slug>
-  <wp:tag_name><![CDATA[xanthopsia]]></wp:tag_name>
 </wp:tag>
 <wp:term>
   <wp:term_id>161107798</wp:term_id>
