@@ -35,33 +35,6 @@
   <wp:author_first_name><![CDATA[]]></wp:author_first_name>
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:wp_author>
-<wp:wp_author>
-  <wp:author_login>chipbennett</wp:author_login>
-  <wp:author_email>chip@chipbennett.net</wp:author_email>
-  <wp:author_display_name><![CDATA[Chip Bennett]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:wp_author>
-<wp:wp_author>
-  <wp:author_login>lance</wp:author_login>
-  <wp:author_email>lance@automattic.com</wp:author_email>
-  <wp:author_display_name><![CDATA[Lance Willett]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:wp_author>
-<wp:wp_author>
-  <wp:author_login>emiluzelac</wp:author_login>
-  <wp:author_email>emil@uzelac.me</wp:author_email>
-  <wp:author_display_name><![CDATA[Emil Uzelac]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:wp_author>
-<wp:category>
-  <wp:term_id>1020423</wp:term_id>
-  <wp:category_nicename>antiquarianism</wp:category_nicename>
-  <wp:category_parent/>
-  <wp:cat_name><![CDATA[antiquarianism]]></wp:cat_name>
-</wp:category>
 <wp:category>
   <wp:term_id>1356</wp:term_id>
   <wp:category_nicename>blogroll</wp:category_nicename>
@@ -582,7 +555,7 @@
   <title>About The Tests</title>
   <link>http://wpthemetestdata.wordpress.com/about/</link>
   <pubDate>Mon, 26 Jul 2010 02:40:01 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/about/</guid>
   <description/>
   <content:encoded><![CDATA[This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme.
@@ -616,7 +589,7 @@
   <title>Lorem Ipsum</title>
   <link>http://wpthemetestdata.wordpress.com/lorem-ipsum/</link>
   <pubDate>Tue, 04 Sep 2007 16:52:50 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/lorem-ipsum/</guid>
   <description/>
   <content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
@@ -688,7 +661,7 @@ Lorem Ipsum је једноставно модел текста који се к
   <title>Page with comments</title>
   <link>http://wpthemetestdata.wordpress.com/about/page-with-comments/</link>
   <pubDate>Tue, 04 Sep 2007 17:47:47 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/page-with-comments/</guid>
   <description/>
   <content:encoded><![CDATA[Repository-hosted Themes are required to support display of comments on static Pages as well as on single blog Posts.  This static Page has comments, and these comments should be displayed.
@@ -758,7 +731,7 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
   <title>Page with comments disabled</title>
   <link>http://wpthemetestdata.wordpress.com/about/page-with-comments-disabled/</link>
   <pubDate>Tue, 04 Sep 2007 17:48:10 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/page-with-comments-disabled/</guid>
   <description/>
   <content:encoded><![CDATA[This static Page is set not to allow comments. Verify that the Page does not display a comment list, comment reply links, or comment reply form.
@@ -785,7 +758,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>Level 3</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2/level-3/</link>
   <pubDate>Tue, 11 Dec 2007 06:23:16 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/level-3/</guid>
   <description/>
   <content:encoded><![CDATA[Level 3 of the reverse hierarchy test.]]></content:encoded>
@@ -811,7 +784,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>Level 2</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2/</link>
   <pubDate>Tue, 11 Dec 2007 06:23:33 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/level-2/</guid>
   <description/>
   <content:encoded><![CDATA[Level 2 of the reverse hierarchy test.]]></content:encoded>
@@ -837,7 +810,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>Level 1</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/</link>
   <pubDate>Tue, 11 Dec 2007 23:25:40 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/level-1/</guid>
   <description/>
   <content:encoded><![CDATA[Level 1 of the reverse hierarchy test.  This is to make sure the importer correctly assigns parents and children even when the children come first in the export file.]]></content:encoded>
@@ -863,7 +836,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>Clearing Floats</title>
   <link>http://wpthemetestdata.wordpress.com/about/clearing-floats/</link>
   <pubDate>Sun, 01 Aug 2010 16:42:26 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/</guid>
   <description/>
   <content:encoded><![CDATA[The last item in this page's content is a floated image. Make sure any elements after it are clearing properly.
@@ -891,7 +864,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>canola2</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/</link>
   <pubDate>Mon, 10 Jan 2011 13:17:54 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -926,7 +899,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>dsc20050727_091048_222</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050727_091048_222/</link>
   <pubDate>Mon, 10 Jan 2011 13:20:37 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -961,7 +934,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>dsc20050813_115856_52</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050813_115856_52/</link>
   <pubDate>Mon, 10 Jan 2011 13:20:57 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -996,7 +969,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <title>Front Page</title>
   <link>http://wpthemetestdata.wordpress.com/front-page/</link>
   <pubDate>Sat, 21 May 2011 01:49:43 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=701</guid>
   <description/>
   <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Front Page template file. 
@@ -1026,7 +999,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Blog</title>
   <link>http://wpthemetestdata.wordpress.com/blog/</link>
   <pubDate>Sat, 21 May 2011 01:51:43 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=703</guid>
   <description/>
   <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Blog Posts Index page. If the site is set to display a static Page on the Front Page, and this Page is set to display the Blog Posts Index, then this text should not appear.]]></content:encoded>
@@ -1052,7 +1025,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Bell on Wharf</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/</link>
   <pubDate>Fri, 15 Jul 2011 21:34:50 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5540.JPG.html]]></content:encoded>
@@ -1087,7 +1060,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Golden Gate Bridge</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5540/</link>
   <pubDate>Fri, 15 Jul 2011 21:35:55 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5478.JPG.html]]></content:encoded>
@@ -1122,7 +1095,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Sunburst Over River</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/cep00032/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:24 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/cep00032.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/CEP00032.jpg.html]]></content:encoded>
@@ -1157,7 +1130,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Boardwalk</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:27 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/DCP_2082.jpg.html]]></content:encoded>
@@ -1192,7 +1165,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Yachtsody in Blue</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:33 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc03149.jpg.html]]></content:encoded>
@@ -1227,7 +1200,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Rain Ripples</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc04563/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:37 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc04563.jpg.html]]></content:encoded>
@@ -1262,7 +1235,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Sydney Harbor Bridge</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc09114/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:41 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc09114.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc09114.jpg.html]]></content:encoded>
@@ -1297,7 +1270,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Wind Farm</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050102_192118_51/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:42 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_51.jpg.html]]></content:encoded>
@@ -1332,7 +1305,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Antique Farm Machinery</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:45 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_160808_102.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_160808_102.jpg.html]]></content:encoded>
@@ -1367,7 +1340,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Orange Iris</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc02085/</link>
   <pubDate>Fri, 15 Jul 2011 21:46:27 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25895]]></content:encoded>
@@ -1402,7 +1375,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Rusty Rail</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:17 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_173257_119.jpg.html]]></content:encoded>
@@ -1437,7 +1410,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Sea and Rocks</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dscn3316/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:20 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dscn3316.jpg.html]]></content:encoded>
@@ -1472,7 +1445,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Big Sur</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/michelle_049/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:23 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/michelle_049.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/michelle_049.jpg.html]]></content:encoded>
@@ -1507,7 +1480,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Windmill</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcf-1-0/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:26 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/Windmill.jpg.html]]></content:encoded>
@@ -1542,7 +1515,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Huatulco Coastline</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/</link>
   <pubDate>Fri, 15 Jul 2011 21:49:48 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/img_0513-1.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513-1.JPG.html]]></content:encoded>
@@ -1577,7 +1550,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Brazil Beach</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0747/</link>
   <pubDate>Fri, 15 Jul 2011 21:50:37 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
@@ -1612,7 +1585,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Huatulco Coastline</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/</link>
   <pubDate>Fri, 15 Jul 2011 21:51:19 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0767.JPG.html]]></content:encoded>
@@ -1647,7 +1620,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Boat Barco Texture</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/</link>
   <pubDate>Fri, 15 Jul 2011 21:51:57 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25774]]></content:encoded>
@@ -1682,7 +1655,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20040724_152504_532</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/</link>
   <pubDate>Mon, 04 Jun 2012 18:36:56 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1709,7 +1682,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20050604_133440_3421</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_3421/</link>
   <pubDate>Mon, 04 Jun 2012 18:58:15 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1736,7 +1709,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>St. Louis Blues</title>
   <link>http://wpthemetestdata.wordpress.com/2010/07/02/post-format-audio/originaldixielandjazzbandwithalbernard-stlouisblues/</link>
   <pubDate>Thu, 05 Jul 2012 16:49:29 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
   <description/>
   <content:encoded><![CDATA[St. Louis Blues, by Original Dixieland Jazz Band with Al Bernard (public domain)]]></content:encoded>
@@ -1759,7 +1732,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>OLYMPUS DIGITAL CAMERA</title>
   <link>http://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/</link>
   <pubDate>Thu, 05 Jul 2012 18:07:34 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1782,7 +1755,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Image Alignment 580x300</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-580x300/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1821,7 +1794,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Image Alignment 150x150</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-150x150/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1860,7 +1833,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Horizontal Featured Image</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-horizontal/featured-image-horizontal-2/</link>
   <pubDate>Fri, 15 Mar 2013 20:40:38 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/featured-image-horizontal.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1899,7 +1872,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>I Am Worth Loving Wallpaper</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/soworthloving-wallpaper/</link>
   <pubDate>Thu, 14 Mar 2013 14:58:24 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/soworthloving-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1934,7 +1907,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Image Alignment 300x200</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-300x200/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -1973,7 +1946,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Vertical Featured Image</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-vertical/featured-image-vertical-2/</link>
   <pubDate>Fri, 15 Mar 2013 20:41:09 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/featured-image-vertical.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2012,7 +1985,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Image Alignment 1200x4002</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-1200x4002/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2051,7 +2024,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Unicorn Wallpaper</title>
   <link>http://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/</link>
   <pubDate>Fri, 15 Mar 2013 03:10:39 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2090,7 +2063,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Pages</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/pages/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:45 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/pages</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2149,7 +2122,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Categories</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/categories/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:45 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/categories</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2208,7 +2181,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1112/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1112</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test markup tags and styles.]]></content:encoded>
@@ -2267,7 +2240,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1115/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1115</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test post formats.]]></content:encoded>
@@ -2326,7 +2299,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1118/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1118</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test unpublished posts.]]></content:encoded>
@@ -2385,7 +2358,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Depth</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/depth/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/depth</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2444,7 +2417,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 01</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-01/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-01</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2503,7 +2476,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 02</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-02/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-02</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2562,7 +2535,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 03</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-03/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-03</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2621,7 +2594,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 04</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-04/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-04</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2680,7 +2653,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 05</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-05/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-05</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2739,7 +2712,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 06</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-06/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-06</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2798,7 +2771,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 07</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-07/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-07</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2857,7 +2830,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 08</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-08/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-08</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2916,7 +2889,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 09</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-09/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-09</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2975,7 +2948,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 10</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/level-10/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/level-10</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3034,7 +3007,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Advanced</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/advanced/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/advanced</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3093,7 +3066,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu Description</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/menu-description/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:50 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/menu-description</guid>
   <description/>
   <content:encoded><![CDATA[Custom Menu Description]]></content:encoded>
@@ -3152,7 +3125,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu Title Attribute</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/menu-title-attribute/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:50 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/menu-title-attribute</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3211,7 +3184,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu CSS Class</title>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/menu-css-class/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:51 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/menu-css-class</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3270,7 +3243,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1263/</link>
   <pubDate>Tue, 09 Apr 2013 13:38:00 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1263</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3329,7 +3302,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1264/</link>
   <pubDate>Tue, 09 Apr 2013 13:38:01 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1264</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3388,7 +3361,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1287/</link>
   <pubDate>Tue, 09 Apr 2013 13:53:04 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1287</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3447,7 +3420,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/04/09/1288/</link>
   <pubDate>Tue, 09 Apr 2013 13:53:04 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2013/04/09/1288</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3506,7 +3479,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>triforce-wallpaper</title>
   <link>http://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/triforce-wallpaper/</link>
   <pubDate>Tue, 09 Apr 2013 20:17:31 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3529,7 +3502,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Home</title>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/home/</link>
   <pubDate>Tue, 07 May 2013 19:54:30 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1635</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3588,7 +3561,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1636/</link>
   <pubDate>Tue, 07 May 2013 19:54:30 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1636</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3647,7 +3620,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1637/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1637</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3706,7 +3679,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1638/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1638</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3765,7 +3738,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1639/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1639</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3824,7 +3797,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1640/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1640</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3883,7 +3856,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1641/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1641</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -3942,7 +3915,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Home</title>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/home-2/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1642</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -4001,7 +3974,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1643/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1643</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4060,7 +4033,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1644/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1644</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4119,7 +4092,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1645/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1645</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4178,7 +4151,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1646/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1646</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4237,7 +4210,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1647/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1647</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4296,7 +4269,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1648/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1648</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4355,7 +4328,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1649/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1649</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4414,7 +4387,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1650/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1650</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4473,7 +4446,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1651/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1651</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4532,7 +4505,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1652/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1652</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4591,7 +4564,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1653/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1653</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4650,7 +4623,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1654/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1654</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4709,7 +4682,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1655/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1655</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4768,7 +4741,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1656/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1656</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4827,7 +4800,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1657/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1657</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4886,7 +4859,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1658/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1658</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4945,7 +4918,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1659/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1659</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5004,7 +4977,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2013/05/07/1660/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1660</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5063,7 +5036,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20040724_152504_532</title>
   <link>http://wpthemetestdata.wordpress.com/?attachment_id=1686</link>
   <pubDate>Wed, 18 Sep 2013 21:37:05 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5086,7 +5059,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20050604_133440_34211</title>
   <link>http://wpthemetestdata.wordpress.com/?attachment_id=1687</link>
   <pubDate>Wed, 18 Sep 2013 21:37:07 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5109,7 +5082,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>2014-slider-mobile-behavior</title>
   <link>http://wpthemetestdata.wordpress.com/?attachment_id=1690</link>
   <pubDate>Wed, 04 Dec 2013 18:08:29 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5132,7 +5105,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20050315_145007_132</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:21 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2014/01/dsc20050315_145007_132.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5155,7 +5128,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>spectacles</title>
   <link>http://wpthemetestdata.wordpress.com/about/clearing-floats/spectacles-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:36 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2014/01/spectacles.gif</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5178,7 +5151,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Post Format: Standard</title>
   <link>http://wpthemetestdata.wordpress.com/2010/10/05/post-format-standard/</link>
   <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=358</guid>
   <description/>
   <content:encoded><![CDATA[All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
@@ -5191,7 +5164,7 @@ If you could keep awake (but of course you can't) you would see your own mother 
 
 I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
 
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
+Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemba11yteam, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
 
 Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
 
@@ -5234,7 +5207,7 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
   <title>Post Format: Gallery</title>
   <link>http://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/</link>
   <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
   <description/>
   <content:encoded><![CDATA[[gallery]
@@ -5297,7 +5270,7 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <title>Post Format: Aside</title>
   <link>http://wpthemetestdata.wordpress.com/2010/05/09/post-format-aside/</link>
   <pubDate>Sun, 09 May 2010 14:51:54 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=559</guid>
   <description/>
   <content:encoded><![CDATA[“I never tried to prove nothing, just wanted to give a good show. My life has always been my music, it's always come first, but the music ain't worth nothing if you can't lay it on the public. The main thing is to live for that audience, 'cause what you're there for is to please the people.”]]></content:encoded>
@@ -5331,7 +5304,7 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <title>Post Format: Chat</title>
   <link>http://wpthemetestdata.wordpress.com/2010/01/08/post-format-chat/</link>
   <pubDate>Fri, 08 Jan 2010 14:59:31 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=562</guid>
   <description/>
   <content:encoded><![CDATA[Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
@@ -5485,7 +5458,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Post Format: Link</title>
   <link>http://wpthemetestdata.wordpress.com/2010/03/07/post-format-link/</link>
   <pubDate>Sun, 07 Mar 2010 15:06:53 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
   <description/>
   <content:encoded><![CDATA[<a href="http://make.wordpress.org/themes" title="The WordPress Theme Review Team Website">The WordPress Theme Review Team Website</a>]]></content:encoded>
@@ -5515,7 +5488,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Post Format: Image (Linked)</title>
   <link>http://wpthemetestdata.wordpress.com/2010/08/06/post-format-image-linked/</link>
   <pubDate>Fri, 06 Aug 2010 15:09:39 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=568</guid>
   <description/>
   <content:encoded><![CDATA[[caption id="attachment_612" align="aligncenter" width="640" caption="Chunk of resinous blackboy husk, Clarkson, Western Australia. This burns like a spinifex log."]<a href="http://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="chunk of resinous blackboy husk" title="dsc20040724_152504_532" width="640" height="480" class="size-full wp-image-612" /></a>[/caption]
@@ -5550,7 +5523,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Post Format: Quote</title>
   <link>http://wpthemetestdata.wordpress.com/2010/02/05/post-format-quote/</link>
   <pubDate>Fri, 05 Feb 2010 15:13:15 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
   <description/>
   <content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
@@ -5581,7 +5554,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Post Format: Status</title>
   <link>http://wpthemetestdata.wordpress.com/2010/04/04/post-format-status/</link>
   <pubDate>Sun, 04 Apr 2010 15:21:24 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=579</guid>
   <description/>
   <content:encoded><![CDATA[WordPress, how do I love thee? Let me count the ways (in 140 characters or less).]]></content:encoded>
@@ -5611,7 +5584,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Page A</title>
   <link>http://wpthemetestdata.wordpress.com/page-a/</link>
   <pubDate>Fri, 24 Jun 2011 01:38:52 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=733</guid>
   <description/>
   <content:encoded><![CDATA[Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.]]></content:encoded>
@@ -5637,7 +5610,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Page B</title>
   <link>http://wpthemetestdata.wordpress.com/page-b/</link>
   <pubDate>Fri, 24 Jun 2011 01:39:14 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=735</guid>
   <description/>
   <content:encoded><![CDATA[(lorem ipsum)]]></content:encoded>
@@ -5663,7 +5636,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Level 2a</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2a/</link>
   <pubDate>Fri, 24 Jun 2011 02:03:33 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=742</guid>
   <description/>
   <content:encoded><![CDATA[(lorem ipsum)]]></content:encoded>
@@ -5689,7 +5662,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Level 2b</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2b/</link>
   <pubDate>Fri, 24 Jun 2011 02:04:03 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=744</guid>
   <description/>
   <content:encoded><![CDATA[(lorem ipsum)]]></content:encoded>
@@ -5715,7 +5688,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Level 3a</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2/level-3a/</link>
   <pubDate>Fri, 24 Jun 2011 02:04:24 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=746</guid>
   <description/>
   <content:encoded><![CDATA[(lorem ipsum)]]></content:encoded>
@@ -5741,7 +5714,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Level 3b</title>
   <link>http://wpthemetestdata.wordpress.com/level-1/level-2/level-3b/</link>
   <pubDate>Fri, 24 Jun 2011 02:04:46 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=748</guid>
   <description/>
   <content:encoded><![CDATA[(lorem ipsum)]]></content:encoded>
@@ -5767,7 +5740,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Template: Excerpt (Defined)</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-excerpt-defined/</link>
   <pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=993</guid>
   <description/>
   <content:encoded><![CDATA[This is the post content. It should be displayed in place of the user-defined excerpt in single-page views.]]></content:encoded>
@@ -5814,7 +5787,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <title>Template: More Tag</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-more-tag/</link>
   <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=996</guid>
   <description/>
   <content:encoded><![CDATA[This content is before the <a href="http://en.support.wordpress.com/splitting-content/more-tag/">more tag</a>.
@@ -5863,7 +5836,7 @@ And this content is after the more tag.]]></content:encoded>
   <title>Edge Case: Nested And Mixed Lists</title>
   <link>http://wpthemetestdata.wordpress.com/2009/05/15/edge-case-nested-and-mixed-lists/</link>
   <pubDate>Fri, 15 May 2009 21:48:32 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=1000</guid>
   <description/>
   <content:encoded><![CDATA[Nested and mixed lists are an interesting beast. It's a corner case to make sure that
@@ -5987,7 +5960,7 @@ And this content is after the more tag.]]></content:encoded>
   <title>Template: Featured Image (Horizontal)</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-horizontal/</link>
   <pubDate>Thu, 15 Mar 2012 22:15:12 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=1011</guid>
   <description/>
   <content:encoded><![CDATA[This post should display a <a href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image">featured image</a>, if the theme <a href="http://codex.wordpress.org/Post_Thumbnails">supports it</a>.
@@ -6060,7 +6033,7 @@ This post tests a horizontal featured image.]]></content:encoded>
   <title>Template: Featured Image (Vertical)</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-vertical/</link>
   <pubDate>Thu, 15 Mar 2012 22:36:32 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=1016</guid>
   <description/>
   <content:encoded><![CDATA[This post should display a <a href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image">featured image</a>, if the theme <a href="http://codex.wordpress.org/Post_Thumbnails">supports it</a>.
@@ -6129,7 +6102,7 @@ This post tests a vertical featured image.]]></content:encoded>
   <title>Page Image Alignment</title>
   <link>http://wpthemetestdata.wordpress.com/about/page-image-alignment/</link>
   <pubDate>Fri, 15 Mar 2013 23:19:23 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?page_id=1080</guid>
   <description/>
   <content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
@@ -6213,7 +6186,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
   <title>Page Markup And Formatting</title>
   <link>http://wpthemetestdata.wordpress.com/about/page-markup-and-formatting/</link>
   <pubDate>Fri, 15 Mar 2013 23:20:05 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?page_id=1083</guid>
   <description/>
   <content:encoded><![CDATA[<strong>Headings</strong>
@@ -6419,7 +6392,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <title>Template: Comments</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/03/template-comments/</link>
   <pubDate>Tue, 03 Jan 2012 17:11:37 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/comment-test/</guid>
   <description/>
   <content:encoded><![CDATA[This post tests comments in the following ways.
@@ -6916,7 +6889,7 @@ Also an author comment.]]></wp:comment_content>
   <title>Template: Pingbacks And Trackbacks</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/01/template-pingbacks-an-trackbacks/</link>
   <pubDate>Sun, 01 Jan 2012 17:17:18 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/many-trackbacks/</guid>
   <description/>
   <content:encoded><![CDATA[This post has many pingpacks and trackbacks.
@@ -7041,7 +7014,7 @@ There are a few ways to list them.
   <title>Template: Comments Disabled</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/02/template-comments-disabled/</link>
   <pubDate>Mon, 02 Jan 2012 17:21:15 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/no-comments/</guid>
   <description/>
   <content:encoded><![CDATA[This post has its comments, pingbacks, and trackbacks disabled.
@@ -7089,7 +7062,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <title>Edge Case: Many Tags</title>
   <link>http://wpthemetestdata.wordpress.com/2009/06/01/edge-case-many-tags/</link>
   <pubDate>Mon, 01 Jun 2009 08:00:34 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
   <description/>
   <content:encoded><![CDATA[This post has many tags.]]></content:encoded>
@@ -7173,7 +7146,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <title>Edge Case: Many Categories</title>
   <link>http://wpthemetestdata.wordpress.com/2009/07/02/edge-case-many-categories/</link>
   <pubDate>Thu, 02 Jul 2009 09:00:03 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-categories/</guid>
   <description/>
   <content:encoded><![CDATA[This post has many categories.]]></content:encoded>
@@ -7274,7 +7247,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <title>Scheduled</title>
   <link>http://wpthemetestdata.wordpress.com/2020/01/01/scheduled/</link>
   <pubDate>Wed, 01 Jan 2020 19:00:18 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=418</guid>
   <description/>
   <content:encoded><![CDATA[This post is scheduled to be published in the future.
@@ -7308,7 +7281,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <title>Post Format: Image</title>
   <link>http://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/</link>
   <pubDate>Sun, 08 Aug 2010 12:00:39 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=568</guid>
   <description/>
   <content:encoded><![CDATA[<dl id="attachment_612" class="wp-caption aligncenter" style="width:650px;"><dt class="wp-caption-dt"></dt></dl>&nbsp;
@@ -7356,7 +7329,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <title>Post Format: Video (YouTube)</title>
   <link>http://wpthemetestdata.wordpress.com/2010/06/02/post-format-video-youtube/</link>
   <pubDate>Wed, 02 Jun 2010 09:00:58 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=582</guid>
   <description/>
   <content:encoded><![CDATA[http://www.youtube.com/watch?v=SQEQr7c0-dw
@@ -7403,7 +7376,7 @@ Learn more about <a href="http://codex.wordpress.org/Embeds">WordPress Embeds</a
   <title>Post Format: Image (Caption)</title>
   <link>http://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/</link>
   <pubDate>Sat, 07 Aug 2010 13:00:19 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=674</guid>
   <description/>
   <content:encoded><![CDATA[[caption id="attachment_754" align="alignnone" width="604"]<a href="http://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg"><img class="wp-image-754 size-large" src="http://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg?w=604" alt="Bell on Wharf" width="604" height="453" /></a> Bell on wharf in San Francisco[/caption]]]></content:encoded>
@@ -7478,7 +7451,7 @@ Learn more about <a href="http://codex.wordpress.org/Embeds">WordPress Embeds</a
   <title>Draft</title>
   <link>http://wpthemetestdata.wordpress.com/?p=1164</link>
   <pubDate>Tue, 09 Apr 2013 18:20:39 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=922</guid>
   <description/>
   <content:encoded><![CDATA[This post is drafted and not published yet.
@@ -7524,7 +7497,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <title>Template: Password Protected (the password is "enter")</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/04/template-password-protected/</link>
   <pubDate>Wed, 04 Jan 2012 16:38:05 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/test-with-secret-password/</guid>
   <description/>
   <content:encoded><![CDATA[This content, comments, pingbacks, and trackbacks should not be visible until the password is entered.]]></content:encoded>
@@ -7584,7 +7557,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <title/>
   <link>http://wpthemetestdata.wordpress.com/2009/09/05/edge-case-no-title/</link>
   <pubDate>Sat, 05 Sep 2009 16:00:23 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/14/</guid>
   <description/>
   <content:encoded><![CDATA[This post has no title, but it still must link to the single post view somehow.
@@ -7632,7 +7605,7 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <title>Edge Case: No Content</title>
   <link>http://wpthemetestdata.wordpress.com/2009/08/06/edge-case-no-content/</link>
   <pubDate>Thu, 06 Aug 2009 16:39:56 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/this-post-has-no-body/</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -7692,7 +7665,7 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <title>Template: Paginated</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/08/template-paginated/</link>
   <pubDate>Sun, 08 Jan 2012 17:00:20 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://noeltest.wordpress.com/?p=188</guid>
   <description/>
   <content:encoded><![CDATA[Post Page 1
@@ -7747,7 +7720,7 @@ Post Page 3]]></content:encoded>
   <title>Markup: Title With Markup</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=861</guid>
   <description/>
   <content:encoded><![CDATA[Verify that:
@@ -7793,7 +7766,7 @@ Post Page 3]]></content:encoded>
   <title>Markup: Title With Special Characters</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/05/title-with-special-characters/</link>
   <pubDate>Sat, 05 Jan 2013 18:00:20 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=867</guid>
   <description/>
   <content:encoded><![CDATA[Putting special characters in the title should have no adverse effect on the layout or functionality.
@@ -7960,7 +7933,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
   <title>Antidisestablishmentarianism</title>
   <link>http://wpthemetestdata.wordpress.com/2009/10/05/title-should-not-overflow-the-content-area/</link>
   <pubDate>Mon, 05 Oct 2009 19:00:59 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=877</guid>
   <description/>
   <content:encoded><![CDATA[<h2>Title should not overflow the content area</h2>
@@ -8026,7 +7999,7 @@ word-wrap: break-word;</pre>
   <title>Markup: Text Alignment</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/09/markup-text-alignment/</link>
   <pubDate>Wed, 09 Jan 2013 16:00:39 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=895</guid>
   <description/>
   <content:encoded><![CDATA[<h3>Default</h3>
@@ -8081,7 +8054,7 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
   <title>Markup: Image Alignment</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/</link>
   <pubDate>Fri, 11 Jan 2013 03:15:40 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=903</guid>
   <description/>
   <content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
@@ -8188,7 +8161,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
   <title>Markup: HTML Tags and Formatting</title>
   <link>http://wpthemetestdata.wordpress.com/2013/01/11/markup-html-tags-and-formatting/</link>
   <pubDate>Sat, 12 Jan 2013 03:22:19 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=919</guid>
   <description/>
   <content:encoded><![CDATA[<h2>Headings</h2>
@@ -8416,7 +8389,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <title>Media: Twitter Embeds</title>
   <link>http://wpthemetestdata.wordpress.com/2011/03/15/media-twitter-embeds/</link>
   <pubDate>Tue, 15 Mar 2011 22:47:16 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=1027</guid>
   <description/>
   <content:encoded><![CDATA[https://twitter.com/nacin/status/319508408669708289
@@ -8473,7 +8446,7 @@ This post tests WordPress' <a title="Twitter Embeds" href="http://en.support.wor
   <title>Template: Sticky</title>
   <link>http://wpthemetestdata.wordpress.com/2012/01/07/template-sticky/</link>
   <pubDate>Sat, 07 Jan 2012 14:07:21 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wptest.io/demo/?p=1241</guid>
   <description/>
   <content:encoded><![CDATA[This is a sticky post.
@@ -8534,7 +8507,7 @@ There are a few things to verify:
   <title>Template: Excerpt (Generated)</title>
   <link>http://wpthemetestdata.wordpress.com/2012/03/14/template-excerpt-generated/</link>
   <pubDate>Wed, 14 Mar 2012 16:49:22 +0000</pubDate>
-  <dc:creator>themedemos</dc:creator>
+  <dc:creator>a11yteam</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=1446</guid>
   <description/>
   <content:encoded><![CDATA[This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the excerpt auto-generation, this post must have more than 55 words.
