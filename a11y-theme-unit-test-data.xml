@@ -36,6 +36,13 @@
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:wp_author>
 <wp:category>
+		<wp:term_id>193</wp:term_id>
+		<wp:category_nicename><![CDATA[block]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Block]]></wp:cat_name>
+<wp:category_description><![CDATA[Items in the block category have been created with the block editor.]]></wp:category_description>
+	</wp:category>
+<wp:category>
   <wp:term_id>1356</wp:term_id>
   <wp:category_nicename>blogroll</wp:category_nicename>
   <wp:category_parent/>
