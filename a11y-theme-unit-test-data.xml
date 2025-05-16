@@ -713,7 +713,7 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
     <wp:comment_date>2007-09-04 10:49:03</wp:comment_date>
     <wp:comment_date_gmt>2007-09-04 00:49:03</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Contributor comment.]]></wp:comment_content>
+    <wp:comment_content><![CDATA[Contributor comment. The contributor comment contains a <a href="https://wordpress.org">link for accessibility testing</a>. The link should be underlined.]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
